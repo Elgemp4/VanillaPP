@@ -1,0 +1,36 @@
+ARROW_DAMAGE: Power	#
+ARROW_DAMAGEowFire: Flame	#
+ARROW_INFINITE: Infinity	#
+ARROW_KNOCKBACK: Punch	#
+MULTISHOT: Multishot	#
+PIERCING: Piercing	#
+QUICK_CHARGE: Quick Charge	#
+BINDING_CURSE: Curse of Binding	#
+VANISHING_CURSE: Curse of Vanishing	#
+DAMAGE_ALL: Sharpness	#
+DAMAGE_ARTHROPODS: Bane of Arthropods	#
+DAMAGE_UNDEAD: Smite	#
+DIG_SPEED: Efficiency	#
+DURABILITY: Unbreaking	#
+FIRE_ASPECT: Fire Aspect	#
+LURE: Lure	#
+FROST_WALKER: Frost Walker	#
+KNOCKBACK: Knockback	#
+LOOT_BONUS_MOBS: Looting	#
+LOOT_BONUS_BLOCKS: Fortune	#
+LUCK: Luck of the Sea	#
+MENDING: Mending	#
+OXYGEN: Respiration	#
+PROTECTION_ENVIRONMENTAL: Protection	#
+PROTECTION_EXPLOSIONS: Blast Protection	#
+PROTECTION_FALL: Feather Falling	#
+PROTECTION_FIRE: Fire Protection	#
+PROTECTION_PROJECTILE: Projectile Protection	#
+THORNS: Thorns	#
+SILK_TOUCH: Silk Touch	#
+DEPTH_STRIDER: Depth Strider	#
+WATER_WORKER: Aqua Affinity	#
+CHANNELING: Channelling	#
+LOYALTY: Loyalty	#
+RIPTIDE: Riptide	#
+IMPALING: Impaling	#

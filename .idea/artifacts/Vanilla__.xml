@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Vanilla++">
+    <output-path>$USER_HOME$/Desktop/Minecraft server/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="Vanilla++.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$USER_HOME$/Desktop/Minecraft server/plugins/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Vanilla++" />
+      </element>
+    </root>
+  </artifact>
+</component>

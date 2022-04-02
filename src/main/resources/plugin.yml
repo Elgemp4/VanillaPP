@@ -1,0 +1,9 @@
+name: VanillaPP
+version: 1.0
+main: be.elgem.vanillapp.Main
+api-version: 1.18
+depend: [ProtocolLib]
+
+commands:
+  enable:
+    description: enable
